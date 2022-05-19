@@ -2,6 +2,8 @@
 Request a down payment
 ======================
 
+.. _down_payment/down_payment:
+
 A down payment is a partial payment made by the buyer when a sales contract is concluded. This
 implies both parties' full commitment (seller and buyer) to honor the contract. With a down payment,
 the buyers show their will to acquire the product and agree to pay the rest later, while the sellers
